@@ -13,8 +13,7 @@
 +\::\
 @::[
 [::]
-]::Backspace
-+]::Delete
+]::Enter
 vkBB::vkBA
 +vkBB::vkBB
 vkBA::"
@@ -25,5 +24,9 @@ vkBA::"
 +.::.
 /::?
 +/::/
-Backspace::~
-+Backspace::`
+F19::~
++F19::`
++Backspace::Delete
+
+
+MsgBox '　キースワップを適用しました。', '情報', '64 T2'
